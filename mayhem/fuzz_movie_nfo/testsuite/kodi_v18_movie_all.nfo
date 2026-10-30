@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movie>
+    <title>Allegiant</title>
+    <originaltitle>AllegiantOriginal</originaltitle>
+    <sorttitle>TmovieFc10</sorttitle>
+    <ratings>
+        <rating name="imdb" default="true" max="10">
+            <value>5.8</value>
+            <votes>1641</votes>
+        </rating>
+        <rating name="themoviedb" default="false" max="10">
+            <value>1.2</value>
+            <votes>3400</votes>
+        </rating>
+        <rating name="someOther" default="false" max="10">
+            <value>4.2</value>
+            <votes>784</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>240</top250>
+    <outline>TmovieFc02</outline>
+    <plot>Beatrice Prior and Tobias Eaton venture into the world outside of the fence and are taken into protective custody by a mysterious agency known as the Bureau of Genetic Welfare.</plot>
+    <tagline>Break the boundaries of your world</tagline>
+    <runtime>88</runtime>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/tSFBh9Ayn5uiwbUK9HvD2lrRgaQ.jpg">http://image.tmdb.org/t/p/original/tSFBh9Ayn5uiwbUK9HvD2lrRgaQ.jpg</thumb>
+    <mpaa>Rated M</mpaa>
+    <playcount>1</playcount>
+    <lastplayed>2017-09-06 12:44:12</lastplayed>
+    <id>tt3410834</id>
+    <uniqueid default="true" type="imdb">tt3410834</uniqueid>
+    <genre>Adventure</genre>
+    <genre>Science Fiction</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Divergent Collection</name>
+        <overview>A series of dystopian science fiction action films based on the Divergent novels by the American author Veronica Roth. Set in a dystopian and post-apocalyptic Chicago where people are divided into distinct factions based on human virtues. Beatrice Prior (Tris) is warned that she is Divergent and thus will never fit into any one of the factions. She along with Tobias Eaton (Four) soon learn that a sinister plot is brewing in the seemingly perfect society.</overview>
+    </set>
+    <credits>Adam Cooper</credits>
+    <credits>Bill Collage</credits>
+    <credits>Stephen Chbosky</credits>
+    <director>Robert Schwentke</director>
+    <premiered>2016-03-09</premiered>
+    <year>2016</year>
+    <studio>Summit Entertainment</studio>
+    <trailer>TmovieFc19</trailer>
+    <fileinfo>
+        <streamdetails>
+            <video>
+                <durationinseconds>5311</durationinseconds>
+                <codec>h264</codec>
+                <aspect>1.777778</aspect>
+                <width>1920</width>
+                <height>1080</height>
+            </video>
+            <audio/>
+            <audio>
+                <language>eng</language>
+                <codec>ac3</codec>
+                <channels>2</channels>
+            </audio>
+            <audio>
+                <codec>ac3</codec>
+                <channels>2</channels>
+            </audio>
+            <subtitle/>
+            <subtitle>
+                <language>eng</language>
+            </subtitle>
+            <subtitle/>
+        </streamdetails>
+    </fileinfo>
+    <actor>
+        <name>Shailene Woodley</name>
+        <role>Beatrice &quot;Tris&quot; Prior</role>
+        <order>0</order>
+        <thumb>http://image.tmdb.org/t/p/original/kkLbiTlBGNwJL9qHuVHeqCMNrEx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Theo James</name>
+        <role>Tobias &quot;Four&quot; Eaton</role>
+        <order>1</order>
+        <thumb>http://image.tmdb.org/t/p/original/hLNSoQ3gc52X5VVb172yO3CuUEq.jpg</thumb>
+    </actor>
+    <showlink>Some Allegiant show 1</showlink>
+    <showlink>Some Allegiant show 2</showlink>
+    <resume>
+        <position>0</position>
+        <total>0</total>
+    </resume>
+    <tag>Best Tag</tag>
+</movie>

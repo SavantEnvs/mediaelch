@@ -1,0 +1,1 @@
+{foo}<content>{/foo}{foo2}content{/foo2}
