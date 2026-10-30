@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tvshow>
+    <title></title>
+    <showtitle></showtitle>
+    <!-- No valid ID was defined - using internal DB ID as fallback -->
+    <uniqueid default="true" type="mediaelch_fallback">-1</uniqueid>
+    <userrating>0</userrating>
+    <top250>-1</top250>
+    <episode>0</episode>
+    <season>0</season>
+    <plot></plot>
+    <mpaa></mpaa>
+    <premiered></premiered>
+    <dateadded></dateadded>
+    <status></status>
+    <trailer></trailer>
+    <episodeguide>{}</episodeguide>
+</tvshow>

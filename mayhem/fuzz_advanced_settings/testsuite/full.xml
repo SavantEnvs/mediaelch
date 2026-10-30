@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<advancedsettings>
+  <log>
+    <debug>true</debug>
+    <file>./MediaElch.log</file>
+  </log>
+  <locale>en</locale>
+  <portableMode>false</portableMode>
+  <gui>
+    <stylesheet>custom.css</stylesheet>
+  </gui>
+  <writeThumbUrlsToNfo>true</writeThumbUrlsToNfo>
+  <episodeThumb>
+    <width>400</width>
+    <height>225</height>
+  </episodeThumb>
+  <bookletCut>10</bookletCut>
+  <sorttokens>
+    <token>The</token>
+    <token>Der</token>
+  </sorttokens>
+  <genres>
+    <map from="SciFi" to="Science Fiction"/>
+  </genres>
+  <audioCodecs>
+    <map from="ac3" to="AC3"/>
+  </audioCodecs>
+  <videoCodecs>
+    <map from="h264" to="AVC"/>
+  </videoCodecs>
+  <certifications>
+    <map from="FSK 16" to="DE:FSK16"/>
+  </certifications>
+  <studios useFirstStudioOnly="true">
+    <map from="Warner Bros." to="Warner"/>
+  </studios>
+  <countries>
+    <map from="USA" to="United States"/>
+  </countries>
+  <fileFilters>
+    <movies>.mkv,.avi</movies>
+    <concerts>.mkv</concerts>
+    <tvShows>.mp4</tvShows>
+    <subtitle>.srt</subtitle>
+  </fileFilters>
+  <exclude>
+    <pattern applyTo="filename">^_</pattern>
+    <pattern applyTo="folders">^[.]git$</pattern>
+  </exclude>
+</advancedsettings>

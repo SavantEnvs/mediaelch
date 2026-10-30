@@ -1,0 +1,10 @@
+project: savantenvs/mediaelch
+target: fuzz_tvshow_nfo
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_tvshow_nfo/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_tvshow_nfo
+    libfuzzer: true
+    timeout: 10
+    dictionary: /mayhem/mayhem/fuzz_tvshow_nfo/fuzz_tvshow_nfo.dict

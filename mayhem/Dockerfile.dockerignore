@@ -1,0 +1,6 @@
+# Bake in the full repo (including .git); drop only local build trees and editor noise.
+mayhem/build-fuzz/
+mayhem/build-tests/
+.DS_Store
+*.swp
+*~

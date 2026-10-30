@@ -1,0 +1,10 @@
+project: savantenvs/mediaelch
+target: fuzz_advanced_settings
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_advanced_settings/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_advanced_settings
+    libfuzzer: true
+    timeout: 10
+    dictionary: /mayhem/mayhem/fuzz_advanced_settings/fuzz_advanced_settings.dict
